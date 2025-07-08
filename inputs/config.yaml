@@ -1,0 +1,8 @@
+epitope_region: "8-35"
+epitope_sequence: "ILTILMYSTAAKFSKQSWGLENEALIVR"
+species: "human"
+cdr_template: "IGHV1-69"
+output_format: "pdb"
+filters:
+  developability: true
+  max_mutations: 5
